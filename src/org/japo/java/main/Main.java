@@ -13,20 +13,20 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package org.japo.java;
+package org.japo.java.main;
 
 /**
  *
  * @author Manu Portolés
  */
-public class main {
+public class Main {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-    System.out.printf("Fecha de entrada....: %02d:%02d%n" ,10,16);
+        System.out.printf("Fecha de entrada....: %02d:%02d%n", 10, 16);
 
     }
-    
+
 }
